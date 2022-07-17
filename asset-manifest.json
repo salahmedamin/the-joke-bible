@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/the-joke-bible/static/css/main.37743751.css",
+    "main.js": "/the-joke-bible/static/js/main.dacfde4f.js",
+    "static/media/Montserrat-BlackItalic.ttf": "/the-joke-bible/static/media/Montserrat-BlackItalic.4404f7c61ef37bcfd52a.ttf",
+    "static/media/Montserrat-Black.ttf": "/the-joke-bible/static/media/Montserrat-Black.46e8b3d6aad654578958.ttf",
+    "static/media/Montserrat-ExtraBoldItalic.ttf": "/the-joke-bible/static/media/Montserrat-ExtraBoldItalic.6849a97dd651acfb619a.ttf",
+    "static/media/Montserrat-BoldItalic.ttf": "/the-joke-bible/static/media/Montserrat-BoldItalic.a32ae5d9b605d950167e.ttf",
+    "static/media/Montserrat-SemiBoldItalic.ttf": "/the-joke-bible/static/media/Montserrat-SemiBoldItalic.b04000635199f25a1278.ttf",
+    "static/media/Montserrat-Italic.ttf": "/the-joke-bible/static/media/Montserrat-Italic.e7728c27ba36b97eb82f.ttf",
+    "static/media/Montserrat-MediumItalic.ttf": "/the-joke-bible/static/media/Montserrat-MediumItalic.54b24d993e603e7e52c1.ttf",
+    "static/media/Montserrat-LightItalic.ttf": "/the-joke-bible/static/media/Montserrat-LightItalic.d79f80a4862fa88db7c2.ttf",
+    "static/media/Montserrat-ExtraLightItalic.ttf": "/the-joke-bible/static/media/Montserrat-ExtraLightItalic.338d80b0603bc186b146.ttf",
+    "static/media/Montserrat-Regular.ttf": "/the-joke-bible/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-ThinItalic.ttf": "/the-joke-bible/static/media/Montserrat-ThinItalic.3096cb47ac2a0c8020aa.ttf",
+    "static/media/Montserrat-ExtraBold.ttf": "/the-joke-bible/static/media/Montserrat-ExtraBold.1944c8d1a118759a4435.ttf",
+    "static/media/Montserrat-Bold.ttf": "/the-joke-bible/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/the-joke-bible/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/Montserrat-Medium.ttf": "/the-joke-bible/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
+    "static/media/Montserrat-ExtraLight.ttf": "/the-joke-bible/static/media/Montserrat-ExtraLight.62a749ca2820713ebbf8.ttf",
+    "static/media/Montserrat-Light.ttf": "/the-joke-bible/static/media/Montserrat-Light.02afb26fe72fcc052988.ttf",
+    "static/media/Montserrat-Thin.ttf": "/the-joke-bible/static/media/Montserrat-Thin.4a799b111f608dbf4f89.ttf",
+    "index.html": "/the-joke-bible/index.html",
+    "main.37743751.css.map": "/the-joke-bible/static/css/main.37743751.css.map",
+    "main.dacfde4f.js.map": "/the-joke-bible/static/js/main.dacfde4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37743751.css",
+    "static/js/main.dacfde4f.js"
+  ]
+}
