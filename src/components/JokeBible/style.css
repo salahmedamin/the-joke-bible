@@ -1,0 +1,28 @@
+.joke-bible {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 320px;
+    width: 100%;
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.joke-bible-title,
+.joke-bible-subtitle {
+    font-family: "Montserrat";
+}
+
+.joke-bible-title {
+    font-size: 48px;
+    color: #cfb995;
+}
+
+.joke-bible-subtitle {
+    font-size: 24px;
+    color: var(--white);
+    margin-bottom: 40px;
+    font-weight: bolder;
+}

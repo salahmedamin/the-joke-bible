@@ -1,0 +1,92 @@
+/*triangle background large*/
+.triangle-bg-lg,
+.triangle-bg-lg:before,
+.triangle-bg-lg:after {
+    width: 25em;
+    height: 25em;
+}
+
+/*triangle background medium*/
+.triangle-bg-md,
+.triangle-bg-md:before,
+.triangle-bg-md:after {
+    width: 20em;
+    height: 20em;
+}
+
+/*triangle background small*/
+.triangle-bg-sm,
+.triangle-bg-sm:before,
+.triangle-bg-sm:after {
+    width: 15em;
+    height: 15em;
+}
+
+/*triangle background extra small*/
+.triangle-bg-xs,
+.triangle-bg-xs:before,
+.triangle-bg-xs:after {
+    width: 10em;
+    height: 10em;
+}
+
+/*triangle background extra extra small*/
+.triangle-bg-xxs,
+.triangle-bg-xxs:before,
+.triangle-bg-xxs:after {
+    width: 5em;
+    height: 5em;
+}
+
+/*common triangle style*/
+.triangle-bg-lg,
+.triangle-bg-md,
+.triangle-bg-sm,
+.triangle-bg-xs,
+.triangle-bg-xxs {
+    overflow: hidden;
+    position: relative;
+    margin: 2em auto;
+    border-radius: 30%;
+    transform: translateY(50%) rotate(30deg) skewY(30deg) scaleX(.866);
+}
+
+.triangle-bg-lg:before,
+.triangle-bg-lg:after,
+.triangle-bg-md:before,
+.triangle-bg-md:after,
+.triangle-bg-sm:before,
+.triangle-bg-sm:after,
+.triangle-bg-xxs:before,
+.triangle-bg-xxs:after {
+    position: absolute;
+    background: #303030;
+    pointer-events: auto;
+    content: '';
+}
+
+.triangle-bg-xs:before,
+.triangle-bg-xs:after {
+    background: #ccc;
+    position: absolute;
+    pointer-events: auto;
+    content: '';
+}
+
+.triangle-bg-lg:before,
+.triangle-bg-md:before,
+.triangle-bg-sm:before,
+.triangle-bg-xs:before,
+.triangle-bg-xxs:before {
+    border-radius: 30% 30% 30% 53%;
+    transform: scaleX(1.155) skewY(-30deg) rotate(-30deg) translateY(-42.3%) skewX(30deg) scaleY(.866) translateX(-24%);
+}
+
+.triangle-bg-lg:after,
+.triangle-bg-md:after,
+.triangle-bg-sm:after,
+.triangle-bg-xs:after,
+.triangle-bg-xxs:after {
+    border-radius: 30% 30% 53% 30%;
+    transform: scaleX(1.155) skewY(-30deg) rotate(-30deg) translateY(-42.3%) skewX(-30deg) scaleY(.866) translateX(24%);
+}

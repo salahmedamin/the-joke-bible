@@ -1,0 +1,22 @@
+.snippet {
+    padding: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 30px;
+    font-family: 'montserrat';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    max-height: 30px;
+    overflow: hidden;
+    transition: .3s ease all;
+}
+
+.snippet .dot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-5px);
+    margin-right: 10px;
+}

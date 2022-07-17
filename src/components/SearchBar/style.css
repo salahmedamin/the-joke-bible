@@ -1,0 +1,22 @@
+.search-bar {
+    width: 35%;
+    border-radius: 5px;
+    border: 1px solid var(--white);
+    position: relative;
+    background-color: transparent;
+    background-position: 95% 50%;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    transition: .4s ease all;
+}
+
+.search-bar>input {
+    background-color: transparent;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    border: none;
+    padding: 20px;
+    outline: none;
+    color: white;
+    width: calc(100% - 40px)
+}

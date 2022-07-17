@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.arrow-up {
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 6px solid white;
+}
+
+.show {
+    visibility: visible;
+    opacity: 1;
+    transition: 0.3s ease all;
+}
+
+.hide {
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.3s ease all;
+}
+
+.shadow {
+    box-shadow: 0 1px 7px 0 rgba(0, 0, 0, .15);
+}
+
+.shadow-xl {
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, .15);
+}

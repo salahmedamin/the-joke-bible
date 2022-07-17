@@ -1,0 +1,37 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #303030;
+    height: 60px;
+    display: flex;
+    justify-content: flex-end;
+    z-index: 2000;
+}
+
+.header-item {
+    color: var(--white-two);
+    font-family: "Montserrat";
+    font-size: 15px;
+    font-weight: 600;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 50px;
+    padding: 0px 10px 0px;
+    cursor: pointer;
+    position: relative;
+}
+
+.header-item:last-child {
+    margin-right: 10%;
+}
+
+.header-item-image {
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 30px;
+    height: 30px;
+}

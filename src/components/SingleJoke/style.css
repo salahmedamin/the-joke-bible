@@ -1,0 +1,6 @@
+.single-joke {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    padding: 25px 0 25px;
+}
